@@ -1,1 +1,5 @@
 # Exploring the Kaggle Data Science Survey
+## Description
+When beginning a career in data science, one often wonders what programming tools and languages are being used in the industry, and what skills one should learn first. By exploring the 2017 Kaggle Data Science Survey results, you can learn about the tools used by 10,000+ people in the professional data science community.
+
+This project uses a subset of the [2017 Kaggle Machine Learning and Data Science Survey](https://www.kaggle.com/datasets/kaggle/kaggle-survey-2017?utm_medium=partner&utm_source=datacamp.com&utm_campaign=ml+survey+case+study) dataset. If you want to know more about the tools and techniques Kaggle participants use, check out the full [report of the Kaggle 2017 survey results](https://www.kaggle.com/code/amberthomas/kaggle-2017-survey-results/report?utm_medium=partner&utm_source=datacamp.com&utm_campaign=ml+survey+case+study).
