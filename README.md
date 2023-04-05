@@ -20,3 +20,13 @@ install.packages("IRkernel")
 IRkernel::installspec()
 ```
 After completing the installation, launch Jupyter Notebook, navigate to the folder containing the notebook file, and open it to begin running the analysis.
+## Contents
+1. **Welcome to the world of data science:** Load the data and look at the first 10 responses.
+2. **Using multiple tools:** Split the tools each respondent uses into separate rows.
+3. **Counting users of each tool:** Find the number of respondents that use each language or tool.
+4. **Plotting the most popular tools:** Create a bar chart that displays tool popularity.
+5. **The R vs Python debate:** Calculate the number of respondents that use R, Python, and both tools.
+6. **Plotting R vs Python users:** Calculate the total number of users that use R, Python, or both, and plot the results.
+7. **Language recommendations:** Find language recommendations for users that use R, Python, or both languages.
+8. **The most recommended language by the language used:** Create a faceted plot showing the top four language recommendations from users of R, Python, both, and neither.
+9. **The moral of the story:** Determine if R-users find the statement "R is the language I recommend for new data scientists" to be TRUE or FALSE.
